@@ -1,0 +1,108 @@
+[0]   Thread 0 (0) Create
+Begin skipping: requested 0 instructions
+
+End skipping: requested 0 skipped 0
+
+[201019226]   Thread 0 (0) Exit
+
+
+======================= Coherence message stat ======================
+
+	ReadRequest                   	728354
+	ExclusiveReply                	794132
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	65778
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	793108
+	WriteBackBusyAck              	0
+	WriteBackRequest              	793108
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71242
+	MeshMemAccess                 	87813
+	MeshMemAccessReply            	0
+	NOP                           	0
+
+
+
+
+======================= Network selection stat ======================
+
+	SIZE         : 104777504
+
+
+======================= Message per Network selection stat ======================
+
+	ReadRequest                   	528375
+	ExclusiveReply                	579278
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	50903
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	578510
+	WriteBackBusyAck              	0
+	WriteBackRequest              	578510
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71242
+	MeshMemAccess                 	87813
+	MeshMemAccessReply            	87813
+	NOP                           	0
+
+
+	MultipleDestInvalidation : 0
+	TotDestInvalidation : 0
+
+
+===========================Hybrid--Predictor===========================
+1-9 Total: 2085   Predict Correct: 1399  Predict Wrong:686 Ins Number: 1031
+10-99 Total: 7379   Predict Correct: 6738  Predict Wrong:641   Ins Number: 153
+100-999 Total: 87412   Predict Correct: 82415  Predict Wrong:4997 Ins Number: 426
+1000+ Total: 21903564   Predict Correct: 20843852  Predict Wrong:1059712   Ins Number: 728
+===================================EN==================================
+===========================Hybrid--Predictor===========================
+1-9 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+10-99 Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+100-999 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+1000+ Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+===================================EN==================================
+===========================Hybrid--Predictor===========================
+1-9 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+10-99 Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+100-999 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+1000+ Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+===================================EN==================================
+===========================Hybrid--Predictor===========================
+1-9 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+10-99 Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+100-999 Total: 0   Predict Correct: 0  Predict Wrong:0 Ins Number: 0
+1000+ Total: 0   Predict Correct: 0  Predict Wrong:0   Ins Number: 0
+===================================EN==================================
+
